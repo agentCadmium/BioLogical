@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions_and_answers>
+	<entry
+		picture="question1.jpg"
+		question="Which of the following would be the best quantative depiction of a FRAP experiment showing non-mobility of a flourescent molecule?"
+		answer_correct="B"
+		answer_incorrect1="A"
+		answer_incorrect2="C"
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-09"
+		M-C="true">0</entry>
+    <entry
+        picture=""
+        question="A bacterium is suddenly expelled from a warm human intestine into the cold world outside. Which of the following adjustments might the bacterium make to maintain the same level of membrane fluidity"
+        answer_correct="Produce lipids with hydrocarbon tails that are shorter and have more double bonds "
+        answer_incorrect1="Produce lipids with hydrocarbon tails that are longer and have fewer double bonds"
+        answer_incorrect2="Increase the amount of cholesterol in the membrane"
+        answer_incorrect3="Produce lipids that have fewer branches in their hydrocarbon tails "
+        answer_incorrect4=""
+		date="09-13"
+		M-C="true">0</entry>
+	<entry
+		picture="question1"
+		question="Which of the following would be the best quantative depiction of a FRAP experiment showing mobility of a flourescent molecule?"
+		answer_correct="A"
+		answer_incorrect1="B"
+		answer_incorrect2="C"
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="true">0</entry>
+	<entry
+		picture=""
+		question="The second law of thermodynamics states that the entropy of an isolated system never decreases. Explain: why do the phospholipids self assemble even if the process will make them more ordered? (Hint: the entropy of water molecules needs to be taken into consideration)"
+		answer_correct="When phospholipids are not assembled, even though phospholipid are disordered, water molecules are highly ordered to form “cages” around hydrophobic molecules, i.e. long hydrophobic tails of phospholipids. When phospholipids are assembled, water molecules no longer need to form “cages” around hydrophobic portion of the phospholipids. The overall entropy of the isolated system increases."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">0</entry>
+	<entry
+		picture=""
+		question="According to the Fluid Mosaic Model, phospholipids that make up the membrane are in constant motion. What are three kinds of movement that phospholipids can freely undergo in a membrane and explain or draw a diagram detailing what each kind of movement entails."
+		answer_correct="1. Lateral diffusion: phospholipids can move within the lateral plane of the monolayer in which it is in.
+2. Flexion: Fatty acid chains are flexible and can thus freely move/flex.
+3. Rotation: phospholipids can rotate around their axis"
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">0</entry>
+	<entry
+		picture=""
+		question="Of the two organisms, the antarctic fish vs. the thermophilic bacteria that resides in hot springs at 100 degree Celsius, predict which of the following will have the highest % of unsaturated phospholipids in their membranes. Explain your answer."
+		answer_correct="From the two choices provided, the Antarctic fish lives at a lower temperature and are cold-blooded. Thus, the antarctic fish would have the highest % of unsaturated phospholipids to maintain the fluidity of their membranes at this temperature."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">0</entry>
+
+	<entry
+		picture="picture2"
+		question=""
+		answer_correct="D"
+		answer_incorrect1="A"
+		answer_incorrect2="B"
+		answer_incorrect3="C"
+		answer_incorrect4=""
+		date="09-22"
+		M-C="true">1</entry>
+	<entry
+		picture="picture7"
+		question="Which of the following shapes is the amino acid polymer most likely adopt in water?"
+		answer_correct="B"
+		answer_incorrect1="A"
+		answer_incorrect2="C"
+		answer_incorrect3="D"
+		answer_incorrect4=""
+		date="09-22"
+		M-C="true">1</entry>
+	<entry
+		picture=""
+		question="Which of the following statements do you think most accurately explains the inefficiency of proper protein folding?"
+		answer_correct="Intermediates in protein folding are prone to aggregation due to exposed hydrophobic R-groups."
+		answer_incorrect1="Not all proteins have enough “information” in their primary amino acid sequence to specify the correct final folded state."
+		answer_incorrect2="Many proteins have more than one equivalent “lowest possible -∆G” folded state, not all of which are correct."
+		answer_incorrect3="Protein synthesis by the ribosome is error-prone and thus many proteins have incorrect amino acids at one or more positions."
+		answer_incorrect4=""
+		date="09-25"
+		M-C="true">1</entry>
+	<entry
+		picture="picture8"
+		question="Which version (anti-parallel vs parallel) of the Beta-sheet is more energetically favorable?"
+		answer_correct="Anti-parallel"
+		answer_incorrect1="Parallel"
+		answer_incorrect2="Neither are energetically favorable"
+		answer_incorrect3="They are both energetically favorable"
+		answer_incorrect4=""
+		date="09-25"
+		M-C="true">1</entry>
+	<entry
+		picture=""
+		question="Why can a pyrimidine not bind to another pyrimidine or a purine with a purine? What will this do to the diameter of the DNA strand?"
+		answer_correct="Purines and pyrimidines have differing diameters, as purines consist of 2 rings while pyrimidines only have one ring. Thus, if a pyrimidine were able to bind with a pyrimidine and a purine with a purine, the diameter of the DNA strand would not be constant."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">1</entry>
+	<entry
+		picture=""
+		question="Define what an E-value is for a BLAST search. What does a lower E-value indicate when comparing sequences?"
+		answer_correct="E value=Expected value - a measure of the likelihood that the sequence match is due to random chance. Lower E-value= higher likelihood that the sequence you submitted and the sequence it is compared to are related."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">1</entry>
+	<entry
+		picture="picture3"
+		question=""
+		answer_correct="B"
+		answer_incorrect1="A"
+		answer_incorrect2="D"
+		answer_incorrect3="C"
+		answer_incorrect4=""
+		date="09-29"
+		M-C="true">2</entry>
+	<entry
+		picture=""
+		question="What is the 'default' localization of most proteins in the eukaryotic cell?"
+		answer_correct="Cytosol"
+		answer_incorrect1="Rough endoplasmic reticulum"
+		answer_incorrect2="Nucleus"
+		answer_incorrect3="Small endoplasmic reticulum"
+		answer_incorrect4=""
+		date="09-27"
+		M-C="true">2</entry>
+	<entry
+		picture=""
+		question="A protein that was just transcribed in the ER has its N-terminus facing inside the ER lumen and its C-terminus facing the cytosol. The protein has a plasma membrane localization signal. Describe how the protein is properly transported from the ER to the plasma membrane (think about vesicle specificity) and determine which terminus is facing inside and outside the cell."
+		answer_correct="The protein is transported via vesicles that are recruited for specific membranes/proteins. Complementary sets of proteins on the vesicle and target membrane provide selectivity to vesicle docking and fusion. Since the N-terminus was facing inside the ER lumen, the final protein product will have the N-terminus facing the extracellular matrix and the C-terminus facing the cytosol inside the cell."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">2</entry>
+	<entry
+		picture="picture4"
+		question="RSV causes cancer because it harbors a mutated version of Src kinase that, when expressed in infected chicken cells, causes excessive cell proliferation (i.e. cancer). Which of the following mutations might you expect to find in v-Src?"
+		answer_correct="Mutation of Tyr (Y)527 or Mutation of SH2 domain"
+		answer_incorrect1="Mutation of Tyr (Y)416"
+		answer_incorrect2="Mutation of Tyr (Y)527"
+		answer_incorrect3="Mutation of SH2 domain"
+		answer_incorrect4=""
+		date="10-13"
+		M-C="true">3</entry>
+	<entry
+		picture=""
+		question="Describe the structure of a protein coiled-coil. Your answer should include the types of amino acids/secondary structure(s)/bonds involved. "
+		answer_correct="A protein coiled coil is comprised of two alpha helices that twist around one another.  The alpha helices are stabilized by hydrogen bonds and each have one side that is comprised of nonpolar R-groups due to their positioning every 3-4 amino acids. The two alpha helices interact with one another with the hydrophobic R-groups at the interface, due to van der Waal’s interactions and the hydrophobic effect."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">3</entry>
+	<entry
+		picture=""
+		question="Why are second messengers good at amplifying signals? Why would you want to amplify signals in the cell?"
+		answer_correct="Second messengers can be generated and released quickly in large amounts in response to activated receptors and send out signals to other parts of the cell. The amplification of signals in cells is important to make sure the signal is large enough and strong enough to cause further signaling throughout the cell. In general, there are more secondary messengers available in the cell in order to amplify the effect of the signal that may have originated farther upstream."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">3</entry>
+	<entry
+		picture=""
+		question="Which best describes the nature of the filaments that make up the microtubule and actin cytoskeleton?"
+		answer_correct="Constantly in flux, often losing and gaining subunits even while maintaining constant length"
+		answer_incorrect1="Rigid and unchanging"
+		answer_incorrect2="Can be disassembled and reassembled in response to signals, but generally stable once assembled"
+		answer_incorrect3="Can only be assembled"
+		answer_incorrect4=""
+		date="10-20"
+		M-C="true">4</entry>
+	<entry
+		picture=""
+		question="The drugs taxol, extracted from the bark of yew trees, and colchicine, an alkaloid from autumn crocus, have opposite effects. Taxol binds tightly to microtubules and stabilizes them. When added to cells, it causes much of the free tubulin to assemble into microtubules. In contrast, colchicine prevents microtubule formation. Taxol and colchicine are equally toxic to dividing cells, and both are used as anticancer drugs. Based on your knowledge of microtubule dynamics, explain why these drugs are toxic to dividing cells despite their opposite modes of action"
+		answer_correct="Cell division depends on the ability of microtubules to polymerize and to depolymerize. During mitosis, cells first depolymerize most of their microtubules and then repolymerize them to form the mitotic spindle. Taxol- treated cells are prevented from depolymerizing their existing microtubules, and thus cannot form a mitotic spindle. Colchicine-treated cells cannot polymerize new microtubules, and thus are also prevented from forming a mitotic spindle. On a more subtle level, both drugs would block the dynamic instability of microtubules and thus would interfere with the workings of the mitotic spindle, even if one could be formed."
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">4</entry>
+	<entry
+		picture=""
+		question="You do a dihybrid cross between 2 plants of a certain species. The 2 genes are the T gene involved in plant height, and the R gene involved in flower color. The 2 alleles of the T gene are T = tall, and t = short, and the T allele is completely dominant to the t allele. The 2 alleles of the R gene are R = red flowers and r = white flowers. R and r show incomplete dominance, and Rr heterozygotes have pink flowers. What phenotypic ratios do you expect to see in the progeny of this dihybrid cross?: Tt Rr x Tt Rr"
+		answer_correct="6/16 Tall, Pink: 3/16 Tall, Red: 3/16 Tall, White: 2/16 Short, Pink: 1/16 Short, Red: 1/16 Short, White"
+		answer_incorrect1="9/16 Tall, Red: 3/16 Tall, White: 3/16 Short, Red, 1/16 Short, White"
+		answer_incorrect2="All Tall, Pink"
+		answer_incorrect3="9/16 Tall, Pink: 3/16 Short, Pink: 3/16 Short, Red: 1/16 Short, White"
+		answer_incorrect4=""
+		date="11-10"
+		M-C="true">5</entry>
+	<entry
+		picture="picture9"
+		question=""
+		answer_correct="45 centimorgans"
+		answer_incorrect1="Unlinked"
+		answer_incorrect2="33 centimorgans"
+		answer_incorrect3="4 centimorgans"
+		answer_incorrect4=""
+		date="11-11"
+		M-C="true">5</entry>
+	<entry
+		picture=""
+		question="The basic approach in a genetic screen is to..."
+		answer_correct="Examine many thousands of mutagenized individuals to find the few that show a specific altered phenotype of interest"
+		answer_incorrect1="Generate a specific mutation in one specific gene."
+		answer_incorrect2="Attempt to acetylate certain histones."
+		answer_incorrect3="Attempt to artificially methylate DNA at a specific chromosomal locus."
+		answer_incorrect4=""
+		date="11-11"
+		M-C="true">5</entry>
+	<entry
+		picture=""
+		question="Mendel crossed two pea plants. One was a true-breeding plant with green seeds, and the other was a true-breeding plant with yellow seeds. He collected these seeds (F1 generation) and allowed them to self pollinate to form the F2 generation. Yellow is the dominant allele. What genotype and phenotype would you predict for the F1 and F2 generations?"
+		answer_correct="F1: All yellow (All Yy)
+F2: ¾ yellow, ¼ green (YY, Yy, Yy=yellow; yy=green)"
+		answer_incorrect1=""
+		answer_incorrect2=""
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="09-13"
+		M-C="false">5</entry>
+	<entry
+		picture="picture5"
+		question="During respiration in the mitohondria, high energy electrons from NADH or FADH2 are donated to O2. When electrons are Donated from NADH, enough enough energy to make about 2.5 ATP is released. Which of the following would you expect to be true when electrons are donated from FADH2?"
+		answer_correct="Less ATP can be made"
+		answer_incorrect1="More ATP can be made"
+		answer_incorrect2="The same amount of ATP can be made"
+		answer_incorrect3=""
+		answer_incorrect4=""
+		date="12-2"
+		M-C="true">4</entry>
+
+</questions_and_answers>

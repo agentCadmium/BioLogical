@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <!-- The background color must be the same as our normal theme-->
+
+    <!--
+    <item android:drawable="@drawable/backrepeat"/>
+    -->
+
+    <!--<item android:drawable="@android:color/black"/>-->
+    <!-- Our logo - 144 dp color version of our app icon -->
+    <item android:drawable="@color/launcher_screen_background"/>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:tileMode="disabled"
+            android:src="@drawable/logo"/>
+    </item>
+</layer-list>

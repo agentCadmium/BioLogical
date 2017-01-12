@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BioLogical Q&amp;A</string>
+    <string name="date_or_topics">Or select topics manually</string>
+    <string name="dateOption">Topics selected automatically based what has been covered in the course up to this point in time</string>
+    <string name="mcButton">Multiple-choice questions</string>
+    <string name="saButton">Short answer questions</string>
+    <string name="nextButton">Next</string>
+    <string name="saShowAnswer">Show answer</string>
+</resources>

@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    tools:context=".TopicsActivity"
+    android:weightSum="1">
+
+    <CheckBox
+        android:text="@string/dateOption"
+        android:layout_width="match_parent"
+        android:id="@+id/checkBox"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_height="60dp" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:id="@+id/topicsListView"
+        android:layout_weight="0.68"
+        android:layout_above="@+id/button2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:text="@string/date_or_topics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/checkBox"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/mcButton"
+        android:layout_width="150dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="onMCClick"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/saButton"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:onClick="onSAClick"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
